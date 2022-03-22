@@ -1,0 +1,18 @@
+.shop{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+.card{
+    width: 1036px;
+    margin-left: 140px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    
+}
+
+.add-card{
+    /* width: 264px; */
+   
+}
