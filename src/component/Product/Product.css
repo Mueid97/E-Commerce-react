@@ -29,11 +29,16 @@
     width: 100%;
     background-color: #FFE0B3;
     height: 48px;
-   border: none;
+    border: none;
     box-sizing: border-box;
     border-radius: 0px 0px 20px 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: center;
 }
 
 .btn-cart:hover{
     background-color: orangered;
 }
+
